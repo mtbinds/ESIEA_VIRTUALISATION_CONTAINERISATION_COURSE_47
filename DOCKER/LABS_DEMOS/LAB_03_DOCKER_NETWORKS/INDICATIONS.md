@@ -24,7 +24,7 @@ docker run -d --name lab-docker-mongo --network lab-docker-network -v lab-docker
 ```bash
 docker run -d --name lab-docker-mongo-express --network lab-docker-network -e ME_CONFIG_MONGODB_SERVER=lab-docker-mongo -e ME_CONFIG_MONGODB_ADMINUSERNAME=lab-docker -e ME_CONFIG_MONGODB_ADMINPASSWORD=lab-docker-password -p 8080:8081 mongo-express
 ```
-**NB** : Si vous aurez une erreur, essayer d'utiliser le nom d'utilisateur par défaut ('admin') et le mot de passe ('pass').
+**NB** : Si vous aurez une erreur, essayer d'utiliser le nom d'utilisateur par défaut (***admin***) et le mot de passe (***pass***).
 
 - Accédez à l'interface `Mongo-Express` depuis un navigateur en ouvrant http://localhost:8080. Vous devriez voir l'interface de gestion de la base de données `MongoDB`.
 
