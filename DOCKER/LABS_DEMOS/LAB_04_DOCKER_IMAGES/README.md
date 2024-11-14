@@ -79,7 +79,7 @@ Pour rappel, pour déclarer deux étapes dans un `Dockerfile`:
 ```Dockerfile
 # Exemple: première étape, on build un application en go
 # Le "as build" va nous servir pour copier le binaire produit dans la seconde étape
-FROM golang:alpine as build
+FROM golang:alpine AS build
 
 WORKDIR /home/app
 
