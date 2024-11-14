@@ -5,7 +5,7 @@ L'objectif de cet exercice est le suivant: `Vous permettre de vous familiariser 
 - la communication entre les différents containers à l'aide des `docker networks`.
 - persister la donnée d'un container à l'aide des `docker volumes`/`mountpoints`.
 - Exposer des applications (ports) à l'hôte local pour accéder à des applications qui tournent dans un container
-- Configurer des containers à l'aide d'`environments variables`.
+- Configurer des containers à l'aide d`environment variables`.
 
 ## L'Exercice
 
@@ -146,3 +146,7 @@ Pour tester que tout fonctionne correctement, suivez ces étapes:
   ```
 
 L'exercice est à présent terminé.
+
+### Dockerisation d'une application Full Stack
+
+- Essayez de dockeriser [cette application](https://github.com/himanshumaharshi/mern-stack-starter-pack).
