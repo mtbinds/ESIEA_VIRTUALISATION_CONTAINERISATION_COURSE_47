@@ -50,6 +50,8 @@ Vous avez vu au cours du [LAB_04_DOCKER_IMAGES](../LAB_04_DOCKER_IMAGES) comment
 
 ## Les consignes
 
+- Veuillez dockeriser [cette application](https://github.com/nailtonvital/react-node-mysql-crud).
+
 ### MySQL
 
 - Le serveur `MySQL` ne doit pas être accessible depuis l'hôte (seulement à travers l'`API back-end`, et `phpmyadmin`)
