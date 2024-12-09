@@ -32,7 +32,7 @@ Votre application devra comporter les éléments suivants :
 
 ## Contraintes du projet
 
-1. **En groupe** : Ce projet doit être réalisé en groupe.
+1. **En groupe** : Ce projet doit être réalisé en groupe de **3** à **4** étudiants.
 2. **Technologies imposées** :
    
    - Backend : **Python (Flask ou FastAPI)** ou **Node.js (Express.js)**.
