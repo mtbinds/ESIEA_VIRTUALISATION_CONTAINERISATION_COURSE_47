@@ -1,6 +1,8 @@
 
 # Projet final : Application en microservices avec Docker
 
+**Note:** Ce projet ne concerne que les groupes : **44**, **45**, **46**, **47** et **48**
+
 ## Objectif
 
 Vous allez développer une application web composée de plusieurs services conteneurisés. Ce projet en groupe vise à vous faire comprendre comment **créer**, **containeriser**, et **orchestrer** des services avec **Docker** et **Docker Compose**. Vous serez également amenés à gérer les interactions entre les différents services et à fournir une documentation complète.
